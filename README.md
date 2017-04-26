@@ -1,3 +1,5 @@
+#### What this used for?
+I change json-schema-ref-parser to use my private fork to add an option to return empty object instead of throwing Error.
 ------------------------------------------------
 
 ##### NOTICE: Swagger Parser v4.0 _beta_ is now available
