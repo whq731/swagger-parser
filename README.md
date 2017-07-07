@@ -1,4 +1,6 @@
-Swagger Parser v4.0 _beta_
+This is a fork version which used by swagger-jsblade
+Swagger Parser v4.0 _beta_2
+
 ============================
 #### Swagger 2.0 parser and validator for Node and browsers
 
